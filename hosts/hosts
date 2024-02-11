@@ -1,5 +1,5 @@
 [app:vars]
-ansible_ssh_private_key_file=/usr/local/share/test-to-be-deleted-keypair.pem
+ansible_ssh_private_key_file=/usr/local/share/tobekeypair.pem
 ansible_user=ec2-user
 
 [app]
